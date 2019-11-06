@@ -24,7 +24,7 @@ Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rlogo.
 
 class: center, middle
 
-#How do we do it? 🤔
+#How do we do it? &#9728;
 
 ###Steps of a typical data science project:
 ```{r, out.width = "500px", echo=FALSE}
